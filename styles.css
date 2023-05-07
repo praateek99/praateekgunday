@@ -1,0 +1,99 @@
+/* Reset some default styles */
+body, h1, h2, h3, h4, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .logo {
+    font-size: 24px;
+  }
+  
+  .menu {
+    list-style-type: none;
+  }
+  
+  .menu li {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  .menu li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Main content styles */
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  h4 {
+    font-size: 16px;
+    color: #888;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  .experience-item, .education-item, .project-item {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: -10px;
+  }
+  
+  .skills-list li {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
