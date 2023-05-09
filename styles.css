@@ -7,7 +7,7 @@ body, h1, h2, h3, h4, p, ul {
   /* Global styles */
   body {
     font-family: Arial, sans-serif;
-    background-color: #050505;
+    background-color: #49d5b7;
   }
   
   .container {
@@ -18,8 +18,8 @@ body, h1, h2, h3, h4, p, ul {
   
   /* Header styles */
   header {
-    background-color: #0e0c39;
-    color: #ee731b;
+    background-color: #050505;
+    color: #1beeb9;
     padding: 20px;
   }
   
@@ -37,7 +37,7 @@ body, h1, h2, h3, h4, p, ul {
   }
   
   .menu li a {
-    color: #868181;
+    color: #bab4b4;
     text-decoration: none;
   }
   
@@ -71,7 +71,7 @@ body, h1, h2, h3, h4, p, ul {
   
   .experience-item, .education-item, .project-item {
     margin-bottom: 20px;
-    background-color: #5a5353;
+    background-color: #9d9999;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(215, 212, 212, 0.1);
