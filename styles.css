@@ -92,8 +92,8 @@ body, h1, h2, h3, h4, p, ul {
     margin-bottom: -10px;
   }
   .photo-container img {
-    max-width: 100%;
-    border-radius: 50%;
+    max-width: 10%;
+    border-radius: 10%;
   }
   
   
