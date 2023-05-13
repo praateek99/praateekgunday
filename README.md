@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @praateek99
+- my portfolio website - https://praateek99.github.io/praateekgunday/
 - 👀 I’m interested in tech, fintech, sports, music.
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on ...
