@@ -7,7 +7,7 @@ body, h1, h2, h3, h4, p, ul {
   /* Global styles */
   body {
     font-family: Arial, sans-serif;
-    background-color: #49d5b7;
+    background-color: #e4770a;
   }
   
   .container {
@@ -19,7 +19,7 @@ body, h1, h2, h3, h4, p, ul {
   /* Header styles */
   header {
     background-color: #050505;
-    color: #1beeb9;
+    color: #ee8f1b;
     padding: 20px;
   }
   
@@ -37,7 +37,7 @@ body, h1, h2, h3, h4, p, ul {
   }
   
   .menu li a {
-    color: #86ae9e;
+    color: #a5aadc;
     text-decoration: none;
   }
   
@@ -71,7 +71,7 @@ body, h1, h2, h3, h4, p, ul {
   
   .experience-item, .education-item, .project-item {
     margin-bottom: 20px;
-    background-color: #d5eadd;
+    background-color: #f0b474;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(226, 27, 27, 0.1);
@@ -97,9 +97,10 @@ body, h1, h2, h3, h4, p, ul {
   }
   
   
+  
   .skills-list li {
     display: inline-block;
-    background-color: #efdede;
+    background-color: #eea964;
     color: #060606;
     padding: 5px 10px;
     margin-right: 10px;
@@ -109,7 +110,7 @@ body, h1, h2, h3, h4, p, ul {
   
   /* Footer styles */
   footer {
-    background-color: #f6f2f2;
+    background-color: #f3cba6;
     color: #f9f6f6;
     text-align: center;
     padding: 10px;
